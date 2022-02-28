@@ -1,0 +1,27 @@
+{
+  "name": "roc-xpm",
+  "version": "1.0.0",
+  "description": "webinterface to manage project in the xampp htdocs directory",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrVonPritzelwitz/roc-xpm.git"
+  },
+  "keywords": [
+    "xampp",
+    "project",
+    "dashboard"
+  ],
+  "author": "emverwijnen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrVonPritzelwitz/roc-xpm/issues"
+  },
+  "homepage": "https://github.com/DrVonPritzelwitz/roc-xpm#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}

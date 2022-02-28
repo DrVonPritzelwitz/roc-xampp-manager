@@ -1,0 +1,1 @@
+document.getElementById('homeContent').innerHTML = 'hello home page';
